@@ -13,3 +13,4 @@ $luas = new Luas();
 $alas = 6;
 $tinggi = 15;
 echo $luas->segitiga($alas, $tinggi);
+?>
